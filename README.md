@@ -1,5 +1,5 @@
-# DiffusionSat (ICLR 2024)
-**[Website](https://samar-khanna.github.io/DiffusionSat/)** | 
+# Name of the model (ICLR 2024)
+**[Website](if applicable)** | 
 **[Paper](https://arxiv.org/abs/2312.03606)**   |
 **[Video](https://slideslive.com/39018155/diffusionsat-a-generative-foundation-model-for-satellite-imagery)**  |
 **[Zenodo](https://zenodo.org/communities/diffusionsat)**  
@@ -8,14 +8,6 @@ This is the official repository for the ICLR 2024 paper
 "_DiffusionSat: A Generative Foundation Model For Satellite Imagery_".  
 
 Authors: 
-[Samar Khanna](https://www.samarkhanna.com) <sup>1</sup>, 
-[Patrick Liu](https://web.stanford.edu/~pliu1/), 
-[Linqi (Alex) Zhou](https://alexzhou907.github.io), 
-[Chenlin Meng](https://chenlin9.github.io/), 
-[Robin Rombach](https://github.com/rromb), 
-[Marshall Burke](https://web.stanford.edu/~mburke/), 
-[David B. Lobell](https://earth.stanford.edu/people/david-lobell#gs.5vndff), 
-[Stefano Ermon](https://cs.stanford.edu/~ermon/).
 
 ## Installation
 We use conda to create our environments. You will have to do the following:
